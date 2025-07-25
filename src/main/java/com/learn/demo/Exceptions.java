@@ -18,8 +18,8 @@ public class Exceptions {
     // Regla: Siempre que realices una operación matemática que pueda ser inválida (como una división por cero).
 
 
-    // Ejercicio 2: Manejo de índice de array fuera de límites (ArrayIndexOutOfBoundsException) y uso de finally.
-    // Regla: Siempre que accedas a un índice de un array.
+    // Ejercicio 2: Manejo de índice de array fuera de límites (ArrayIndexOutOfBoundsException) y uso de finally para mostrar un mensaje que esta ingresando a este metodo.
+    // Regla: Se debe generar la exception ArrayIndexOutOfBoundsException con el arreglo int[] numeros.
     
     int[] numeros = {1, 2, 3};
 
